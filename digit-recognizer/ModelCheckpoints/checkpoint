@@ -1,2 +1,0 @@
-model_checkpoint_path: "Digit_Recoginser.ckpt"
-all_model_checkpoint_paths: "Digit_Recoginser.ckpt"
